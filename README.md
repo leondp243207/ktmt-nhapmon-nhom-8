@@ -1,5 +1,10 @@
-# ktmt-nhapmon-nhom8
-Dự án đầu tiên của tôi
-Họ và tên: Đoàn Việt Vĩnh Phúc
-MSSV: 25119128
-Ước mơ trở trành kỹ sư lập trình nhúng
+# ktmt-nhapmon-DGK
+My first project
+# Họ và Tên: Đặng Gia Khiêm
+# MSSV: 25119101
+# Lớp: NM ktmt 02
+# Sở thích: máy móc, công nghệ, thể thao, tốc độ,...
+# Mục tiêu: học tốt nghành KTMT
+# Bài tập tuần 4
+# kkkkkkk
+# LLLLL
